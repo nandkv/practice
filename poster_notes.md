@@ -3,7 +3,7 @@
 - string[start_index:end_index:step_index]
     ```
     text = "nandrahulbeena"
-    print(text[0:4]) # nand
+    print(text[0:4]) # nand - output
     ```
 
 ### Slicing List:
